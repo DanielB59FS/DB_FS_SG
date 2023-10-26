@@ -1,0 +1,13 @@
+<Prototypes>
+  <Ship name="Transport" cost="50" armor="20" texture="Resources/images/ship1.png" width="32" height="32" alpha="1" red="1" green="1" blue="1"/>
+  <Ship name="Talon" cost="250" armor="40" texture="Resources/images/ship2.png" width="32" height="32" alpha="1" red="1" green="1" blue="1"/>
+  <Ship name="Stalker" cost="1250" armor="75" texture="Resources/images/ship3.png" width="32" height="32" alpha="1" red="1" green="1" blue="1"/>
+  <Ship name="Behemoth" cost="6250" armor="125" texture="Resources/images/ship4.png" width="32" height="32" alpha="1" red="1" green="1" blue="1"/>
+  <Ship name="Phoenix" cost="31250" armor="200" texture="Resources/images/ship5.png" width="32" height="32" alpha="1" red="1" green="1" blue="1"/>
+  <Ship name="Dummy Target" cost="-1" armor="1" texture="Resources/images/target.png" width="32" height="32" alpha="0.9" red="1" green="1" blue="1"/>
+  <Ship name="Boss 1" cost="-1" armor="25" texture="Resources/images/boss1.png" width="64" height="64" alpha="1" red="1" green="1" blue="1"/>
+  <Ship name="Baddy" cost="-1" armor="30" texture="Resources/images/enemy1.png" width="32" height="32" alpha="1" red="1" green="1" blue="1"/>
+  <Ship name="MidBoss" cost="-1" armor="25" texture="Resources/images/enemy1.png" width="42" height="42" alpha="1" red="1" green="1" blue="0.1"/>
+  <Ship name="Missile" cost="-1" armor="1" texture="Resources/images/missile2.png" width="32" height="16" alpha="1" red="1" green="0.2" blue="0.2"/>
+  <Ship name="BigBoss" cost="-1" armor="500" texture="Resources/images/boss4.png" width="128" height="128" alpha="1" red="1" green="1" blue="1" />
+</Prototypes>

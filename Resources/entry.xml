@@ -1,0 +1,18 @@
+<VerticalMenu name="MainMenu" xpos="175" ypos="150" numberShownItems="4">
+  <MenuItem text="Upgrade Ship" actionType="2" actionValue="shop" width="150" height="50"
+            background ="Resources\\images\\menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="0" normalTextGreen="1" normalTextBlue="0"/>
+  <MenuItem text="Play Next Level" actionType="2" actionValue="level" width="150" height="50"
+            background ="Resources\\images\\menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="1" normalTextGreen="0" normalTextBlue="0"/>
+  <MenuItem text="Options" actionType="1" actionValue="options" width="150" height="50"
+            background ="Resources\\images\\menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="1" normalTextGreen="1" normalTextBlue="0"/>
+  <MenuItem text="Exit Game" actionType="2" actionValue="exit" width="150" height="50"
+            background ="Resources\\images\\menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="0" normalTextGreen="0" normalTextBlue="1"/>
+</VerticalMenu>

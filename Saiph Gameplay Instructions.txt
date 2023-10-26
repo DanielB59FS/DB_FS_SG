@@ -1,0 +1,10 @@
+CONTROL				- ACTION
+WASD or arrow keys		- movement based on style set in options
+spacebar or left mouse button	- fire weapons
+shift or right mouse button	- use afterburners
+H key				- display debug hud
+P key				- pause/unpause the game
+
+The objective of the game is to survive while defeating all opponents.
+Enemy and level information is data driven via xml files.  Once all 
+levels are completed the game will restart at level zero.

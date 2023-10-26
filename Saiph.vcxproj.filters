@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Model">
+      <UniqueIdentifier>{24e69206-2950-4f34-9bfd-ba7e594a87ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View">
+      <UniqueIdentifier>{c929febb-ebc9-4f2b-a44e-a31f820ff806}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XML_Library">
+      <UniqueIdentifier>{9552d1f9-5b52-4358-b973-40ef8a530cf7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Model\BaseObject.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Bullet.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Effect.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Enemy.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\MovingObject.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\PowerUp.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Ship.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\SpawnPoint.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelState.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MenuState.cpp" />
+    <ClCompile Include="RandomFloat.cpp" />
+    <ClCompile Include="ShopState.cpp" />
+    <ClCompile Include="View\Layer.cpp">
+      <Filter>View</Filter>
+    </ClCompile>
+    <ClCompile Include="View\ViewManager.cpp">
+      <Filter>View</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\HUD.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Menu.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\ProgressBar.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="SaiphApp.cpp" />
+    <ClCompile Include="XML_Library\irrXML.cpp">
+      <Filter>XML_Library</Filter>
+    </ClCompile>
+    <ClCompile Include="EntryState.cpp" />
+    <ClCompile Include="ExitState.cpp" />
+    <ClCompile Include="Model\Boss.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\BaseCommand.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\HeadingCommand.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\MotherShip.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\VelocityCommand.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Observer.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\StickyBomb.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Subject.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model\Deflector.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Model\BaseObject.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Bullet.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Effect.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Enemy.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\HUD.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\MovingObject.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\PowerUp.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\ProgressBar.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Ship.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\SpawnPoint.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="View\Layer.h">
+      <Filter>View</Filter>
+    </ClInclude>
+    <ClInclude Include="View\ViewManager.h">
+      <Filter>View</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelState.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="AbstractState.h" />
+    <ClInclude Include="XML_Library\CXMLReaderImpl.h">
+      <Filter>XML_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="XML_Library\fast_atof.h">
+      <Filter>XML_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="XML_Library\heapsort.h">
+      <Filter>XML_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="XML_Library\irrArray.h">
+      <Filter>XML_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="XML_Library\irrString.h">
+      <Filter>XML_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="XML_Library\irrTypes.h">
+      <Filter>XML_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="XML_Library\irrXML.h">
+      <Filter>XML_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="EntryState.h" />
+    <ClInclude Include="ExitState.h" />
+    <ClInclude Include="Model\Boss.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopState.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Model\BaseCommand.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\HeadingCommand.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\MotherShip.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\VelocityCommand.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Observer.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\StickyBomb.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Subject.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Deflector.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="game.ico" />
+    <None Include="StickyBomb_Heartbeat_Map.dgml" />
+    <None Include="StickyBomb_CollisionResponse_Map.dgml" />
+    <None Include="StickyBomb_Notification_Map.dgml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Saiph.rc" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,54 @@
+<Animations>
+  <Animation width="32" height="32" alpha="1" red="1" green="1" blue="1">
+    <Frame filename="Resources/images/explosion/explosion01.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion02.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion03.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion04.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion05.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion06.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion07.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion08.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion09.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion10.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion11.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion12.png" time="0.05"/>
+  </Animation>
+  <Animation width="32" height="32" alpha="1" red="0" green="0" blue="1">
+    <Frame filename="Resources/images/explosion/explosion01.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion02.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion03.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion04.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion05.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion06.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion07.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion08.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion09.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion10.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion11.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion12.png" time="0.05"/>
+  </Animation>
+  <Animation width="32" height="32" alpha="1" red="0" green="1" blue="1">
+    <Frame filename="Resources/images/explosion/explosion01.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion02.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion03.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion04.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion05.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion06.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion07.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion08.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion09.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion10.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion11.png" time="0.05"/>
+    <Frame filename="Resources/images/explosion/explosion12.png" time="0.05"/>
+  </Animation>
+  <Animation width="32" height="32" alpha="0.15" red="0.25" green="1" blue ="1">
+    <Frame filename="Resources/images/shield/frame1.png" time="0.1"/>
+    <Frame filename="Resources/images/shield/frame2.png" time="0.1"/>
+    <Frame filename="Resources/images/shield/frame3.png" time="0.1"/>
+    <Frame filename="Resources/images/shield/frame4.png" time="0.1"/>
+    <Frame filename="Resources/images/shield/frame5.png" time="0.1"/>
+  </Animation>
+  <Animation width="32" height="32" alpha="0.15" red="0.05" green="1" blue="0.5">
+    <Frame filename="Resources/images/shield/frame1.png" time="0.1"/>
+  </Animation>
+</Animations>

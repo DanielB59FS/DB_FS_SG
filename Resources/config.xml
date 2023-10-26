@@ -1,0 +1,5 @@
+<Config>
+  <Window fullscreen="false" renderer="opengl"/>
+  <StartData level="1" score="105687" ship="0" weapon="0" weaponLevel="0" generator="0" shield="3" propulsion="0"/>
+  <Control style="cartesian"/>
+</Config>

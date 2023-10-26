@@ -1,0 +1,229 @@
+<Flyweights>
+  <Weapon name="Wave Gun">
+    <Level cost="15" energy="2.5" reload="0.5">
+      <Bullet variable="false" tracking="true" damage="1" offset="0" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+    </Level>
+    <Level cost="60" energy="2.5" reload="0.4">
+      <Bullet variable="false" tracking="true" damage="1" offset="0" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+    </Level>
+    <Level cost="250" energy="2.5" reload="0.3">
+      <Bullet variable="false" tracking="true" damage="1" offset="0" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+    </Level>
+    <Level cost="1100" energy="2.5" reload="0.2">
+      <Bullet variable="false" tracking="true" damage="1" offset="0" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+    </Level>
+    <Level cost="5000" energy="2.5" reload="0.1">
+      <Bullet variable="false" tracking="true" damage="1" offset="0" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.785398163" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset=".392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+      <Bullet variable="false" tracking="true" damage="1" offset="-.392699081" speed="350" animation="2" width="8" height="8" texture="Resources/images/bullet1.png"
+              alpha="1" red="0" green="1" blue="0.5"/>
+    </Level>
+  </Weapon>
+  <Weapon name="360 Shot">
+    <Level cost="10" energy="1.5" reload="0.5">
+      <Bullet variable="false" tracking="false" damage="4" offset="0" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+    </Level>
+    <Level cost="50" energy="4.5" reload="0.5">
+      <Bullet variable="false" tracking="false" damage="4" offset="0" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset=".261799387" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="-.261799387" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+    </Level>
+    <Level cost="300" energy="6" reload="0.5">
+      <Bullet variable="false" tracking="false" damage="4" offset="0" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset=".261799387" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="-.261799387" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="3.141592653" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="1.570796326" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="-1.570796326" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+    </Level>
+    <Level cost="1750" energy="12" reload="0.5">
+      <Bullet variable="false" tracking="false" damage="4" offset="0" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset=".523598775" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="-.523598775" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="3.141592653" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="2.617993877" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="3.665191429" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="1.308996938" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="1.832595714" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="4.450589592" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="4.974188368" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+    </Level>
+    <Level cost="9000" energy="8" reload="0.25">
+      <Bullet variable="false" tracking="false" damage="4" offset="0" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset=".523598775" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="-.523598775" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="3.141592653" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="2.617993877" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="3.665191429" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="1.308996938" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="1.832595714" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="4.450589592" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+      <Bullet variable="false" tracking="false" damage="4" offset="4.974188368" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"/>
+    </Level>
+  </Weapon>
+  <Weapon name="Vulcan">
+    <Level cost="10" energy="0.5" reload="0.2">
+      <Bullet variable="true" tracking="false" damage="1" offset=".065449846" speed="800" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+    </Level>
+    <Level cost="40" energy="0.5" reload="0.1">
+      <Bullet variable="true" tracking="false" damage="1" offset=".065449846" speed="800" animation="0" width="64" height="8" texture="Resources/images/bullet2.png" 
+              alpha="1" red="1" green="0.3" blue="0"/>
+    </Level>
+    <Level cost="200" energy="1" reload="0.1">
+      <Bullet variable="true" tracking="false" damage="1" offset=".065449846" speed="900" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+      <Bullet variable="true" tracking="false" damage="1" offset=".130899693" speed="800" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+    </Level>
+    <Level cost="1250" energy="1.5" reload="0.1">
+      <Bullet variable="true" tracking="false" damage="1" offset=".065449846" speed="1000" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+      <Bullet variable="true" tracking="false" damage="1" offset=".065449846" speed="900" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+      <Bullet variable="true" tracking="false" damage="1" offset=".130899693" speed="800" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+    </Level>
+    <Level cost="7500" energy="2.5" reload="0.1">
+      <Bullet variable="true" tracking="false" damage="1" offset=".065449846" speed="1000" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+      <Bullet variable="true" tracking="false" damage="1" offset=".065449846" speed="1000" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+      <Bullet variable="true" tracking="false" damage="1" offset=".130899693" speed="900" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+      <Bullet variable="true" tracking="false" damage="1" offset=".130899693" speed="900" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+      <Bullet variable="true" tracking="false" damage="1" offset=".174532925" speed="800" animation="0" width="64" height="8" texture="Resources/images/bullet2.png"
+              alpha="1" red="1" green="0.3" blue="0"/>
+    </Level>
+  </Weapon>
+  <Weapon name="Missile Launcher">
+    <Level cost="20" energy="6" reload="0.5">
+      <Bullet variable="false" tracking="true" damage="5" offset=".392699081" speed="400" animation="0" width="16" height="8" texture="Resources/images/missile4.png"/>
+      <Bullet variable="false" tracking="true" damage="5" offset="-.392699081" speed="400" animation="0" width="16" height="8" texture="Resources/images/missile4.png"/>
+    </Level>
+    <Level cost="100" energy="10" reload="0.6">
+      <Bullet variable="false" tracking="true" damage="10" offset=".392699081" speed="375" animation="0" width="20" height="16" texture="Resources/images/missile3.png"/>
+      <Bullet variable="false" tracking="true" damage="10" offset="-.392699081" speed="375" animation="0" width="20" height="16" texture="Resources/images/missile3.png"/>
+      <Bullet variable="false" tracking="true" damage="5" offset=".785398163" speed="400" animation="0" width="16" height="8" texture="Resources/images/missile4.png"/>
+      <Bullet variable="false" tracking="true" damage="5" offset="-.785398163" speed="400" animation="0" width="16" height="8" texture="Resources/images/missile4.png"/>
+    </Level>
+    <Level cost="500" energy="15" reload="0.75">
+      <Bullet variable="false" tracking="true" damage="10" offset=".392699081" speed="375" animation="0" width="20" height="16" texture="Resources/images/missile3.png"/>
+      <Bullet variable="false" tracking="true" damage="10" offset="-.392699081" speed="375" animation="0" width="20" height="16" texture="Resources/images/missile3.png"/>
+      <Bullet variable="false" tracking="true" damage="10" offset=".785398163" speed="375" animation="0" width="20" height="16" texture="Resources/images/missile3.png"/>
+      <Bullet variable="false" tracking="true" damage="10" offset="-.785398163" speed="375" animation="0" width="20" height="16" texture="Resources/images/missile3.png"/>
+      <Bullet variable="false" tracking="true" damage="5" offset="2.748893571" speed="400" animation="0" width="16" height="8" texture="Resources/images/missile4.png"/>
+      <Bullet variable="false" tracking="true" damage="5" offset="3.534291735" speed="400" animation="0" width="16" height="8" texture="Resources/images/missile4.png"/>
+    </Level>
+    <Level cost="2500" energy="25" reload="0.75">
+      <Bullet variable="false" tracking="true" damage="25" offset=".392699081" speed="325" animation="0" width="32" height="16" texture="Resources/images/missile2.png"/>
+      <Bullet variable="false" tracking="true" damage="25" offset="-.392699081" speed="325" animation="0" width="32" height="16" texture="Resources/images/missile2.png"/>
+      <Bullet variable="false" tracking="true" damage="15" offset="2.748893571" speed="350" animation="0" width="24" height="16" texture="Resources/images/missile3.png"/>
+      <Bullet variable="false" tracking="true" damage="15" offset="3.534291735" speed="350" animation="0" width="24" height="16" texture="Resources/images/missile3.png"/>
+      <Bullet variable="false" tracking="true" damage="10" offset=".785398163" speed="375" animation="0" width="20" height="16" texture="Resources/images/missile3.png"/>
+      <Bullet variable="false" tracking="true" damage="10" offset="-.785398163" speed="375" animation="0" width="20" height="16" texture="Resources/images/missile3.png"/>
+    </Level>
+    <Level cost="10000" energy="30" reload="0.75">
+      <Bullet variable="false" tracking="true" damage="50" offset=".392699081" speed="300" animation="0" width="32" height="32" texture="Resources/images/missile1.png"/>
+      <Bullet variable="false" tracking="true" damage="50" offset="-.392699081" speed="300" animation="0" width="32" height="32" texture="Resources/images/missile1.png"/>
+      <Bullet variable="false" tracking="true" damage="30" offset=".785398163" speed="300" animation="0" width="32" height="28" texture="Resources/images/missile1.png"/>
+      <Bullet variable="false" tracking="true" damage="30" offset="-.785398163" speed="300" animation="0" width="32" height="28" texture="Resources/images/missile1.png"/>
+      <Bullet variable="false" tracking="true" damage="20" offset="2.748893571" speed="325" animation="0" width="32" height="16" texture="Resources/images/missile2.png"/>
+      <Bullet variable="false" tracking="true" damage="20" offset="3.534291735" speed="325" animation="0" width="32" height="16" texture="Resources/images/missile2.png"/>
+    </Level>
+  </Weapon>
+  <Weapon name="Error if you see this">
+    <Level cost="-1" energy="0" reload="0.05">
+      <Bullet variable="false" tracking="false" damage="2" offset="0" speed="300" animation="1" width="16" height="8" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="1"/>
+      <Bullet variable="false" tracking="false" damage="2" offset=".523598775" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="0"/>
+      <Bullet variable="false" tracking="false" damage="2" offset="-.523598775" speed="300" animation="1" width="16" height="8" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="1"/>
+      <Bullet variable="false" tracking="false" damage="2" offset="3.141592653" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="0"/>
+      <Bullet variable="false" tracking="false" damage="2" offset="2.617993877" speed="300" animation="1" width="16" height="8" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="1"/>
+      <Bullet variable="false" tracking="false" damage="2" offset="3.665191429" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="0"/>
+      <Bullet variable="false" tracking="false" damage="2" offset="1.308996938" speed="300" animation="1" width="16" height="8" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="1"/>
+      <Bullet variable="false" tracking="false" damage="2" offset="1.832595714" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="0"/>
+      <Bullet variable="false" tracking="false" damage="2" offset="4.450589592" speed="300" animation="1" width="16" height="8" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="1"/>
+      <Bullet variable="false" tracking="false" damage="2" offset="4.974188368" speed="500" animation="1" width="32" height="16" texture="Resources/images/bullet3.png"
+            alpha="1" red="1" green="0" blue="0"/>
+    </Level>
+  </Weapon>
+  <Shield cost="0" energy="0" strength="0" recharge="0" animation="3"/>
+  <Shield cost="10" energy="1" strength="10" recharge="1" animation="3"/>
+  <Shield cost="50" energy="5" strength="50" recharge="5" animation="3"/>
+  <Shield cost="250" energy="4" strength="25" recharge="10" animation="3"/>
+  <Shield cost="300" energy="8" strength="75" recharge="5" animation="3"/>
+  <Shield cost="1000" energy="10" strength="100" recharge="10" animation="3"/>
+  <Shield cost="-1" energy="0" strength="25" recharge="1" animation="3"/>
+  <Shield cost="-1" energy="0" strength="100" recharge="1" animation="3"/>
+  <Shield cost="-1" energy="0" strength="500" recharge="5" animation="3"/>
+  <Shield cost="-1" energy="0" strength="2000" recharge="10" animation="3"/>
+  <Shield cost="-1" energy="0" strength="2500" recharge="5" animation="4"/>
+  <Generator cost="10" energy="5" battery="35"/>
+  <Generator cost="50" energy="10" battery="40"/>
+  <Generator cost="300" energy="17.5" battery="50"/>
+  <Generator cost="1750" energy="25" battery="100"/>
+  <Generator cost="3000" energy="30" battery="150"/>
+  <Generator cost="4000" energy="40" battery="75"/>
+  <Generator cost="6000" energy="50" battery="200"/>
+  <Generator cost="9000" energy="75" battery="300"/>
+  <Generator cost="-1" energy="100" battery="1000"/>
+  <Propulsion cost="10" energy="1" force="75" afterburner="5"/>
+  <Propulsion cost="50" energy="2" force="100" afterburner="15"/>
+  <Propulsion cost="300" energy="3" force="125" afterburner="30"/>
+  <Propulsion cost="1750" energy="4" force="150" afterburner="40"/>
+  <Propulsion cost="9000" energy="5" force="200" afterburner="50"/>
+  <Propulsion cost="-1" energy="0" force="50" afterburner="0"/>
+  <Propulsion cost="-1" energy="0" force="100" afterburner="0"/>
+</Flyweights>

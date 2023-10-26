@@ -1,0 +1,26 @@
+<VerticalMenu name="Upgrade Shop" xpos="175" ypos="150" numberShownItems="6">
+  <MenuItem text="Ship Type" actionType="1" actionValue="Ship Type" width="150" height="50"
+            background ="Resources/images/menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="0" normalTextGreen="1" normalTextBlue="0"/>
+  <MenuItem text="Weapon" actionType="1" actionValue="Weapon" width="150" height="50"
+            background ="Resources/images/menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="1" normalTextGreen="0" normalTextBlue="1"/>
+  <MenuItem text="Shield" actionType="1" actionValue="Shield" width="150" height="50"
+            background ="Resources/images/menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="0" normalTextGreen="1" normalTextBlue="1"/>
+  <MenuItem text="Generator" actionType="1" actionValue="Generator" width="150" height="50"
+            background ="Resources/images/menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="1" normalTextGreen="1" normalTextBlue="0"/>
+  <MenuItem text="Propulsion" actionType="1" actionValue="Propulsion" width="150" height="50"
+            background ="Resources/images/menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="1" normalTextGreen="0" normalTextBlue="0"/>
+  <MenuItem text="Exit Shop" actionType="2" actionValue="exit" width="150" height="50"
+            background ="Resources/images/menubox.png"
+            highlightTextAlpha ="1" highlightTextRed=".1" highlightTextGreen=".1" highlightTextBlue=".1"
+            normalTextAlpha="1" normalTextRed="1" normalTextGreen="1" normalTextBlue="1"/>
+</VerticalMenu>

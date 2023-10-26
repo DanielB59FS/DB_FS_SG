@@ -1,0 +1,12 @@
+<Prototypes>
+  <Enemy score="1" ship="5" weapon="2" level="0" shield="0" propulsion="6" generator="0"
+         fire="0" min="100" max="300" behavior="joust" powerUp="score" powerUpAmount="0"/>
+  <TrackEnemy score="1" ship="5" weapon="2" level="0" shield="0" propulsion="6" generator="0"
+         min="100" max="300" behavior="follow" fire="0"  powerUp="score" powerUpAmount="0"/>
+  <SpawnEnemy score="1" ship="6" weapon="2" level="0" shield="0" propulsion="5" generator="0"
+         spawnedEnemyID="0" behavior="follow" fire="0.5" min="100" max="300" behavior="joust" powerUp="score" powerUpAmount="0"/>
+  <TrackSpawnEnemy score="1" ship="6" weapon="2" level="0" shield="0" propulsion="5" generator="0"
+         fire="0.5" behavior="follow" spawnedEnemyID="0" min="100" max="300" powerUp="score" powerUpAmount="0"/>
+  <TrackSpawnEnemy score="1" ship="6" weapon="2" level="0" shield="0" propulsion="5" generator="0"
+         fire="0.5" behavior="follow" spawnedEnemyID="1" min="100" max="300" powerUp="score" powerUpAmount="0"/>
+</Prototypes>

@@ -1,0 +1,2 @@
+#define STRATEGYTWO_API __declspec(dllexport)
+#define STRATEGYTWO_API __declspec(dllimport)

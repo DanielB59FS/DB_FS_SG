@@ -1,0 +1,12 @@
+<Prototypes>
+  <Enemy score="1" ship="5" weapon="2" level="0" shield="0" propulsion="6" generator="0"
+         fire="0" min="100" max="300" behavior="joust" powerUp="energy" powerUpAmount="1"/>
+  <Enemy score="10" ship="7" weapon="2" level="0" shield="0" propulsion="5" generator="0"
+         fire="0" min="10" max="200" behavior="joust" powerUp="armor" powerUpAmount="1"/>
+  <Enemy score="10" ship="8" weapon="2" level="1" shield="6" propulsion="5" generator="6"
+         fire="1" min="100" max="200" behavior="follow" powerUp="score" powerUpAmount="10"/>
+  <Enemy score="100" ship="6" weapon="2" level="2" shield="7" propulsion="5" generator="6"     
+         fire="1" min="100" max="200" behavior="follow" powerUp="score" powerUpAmount="30"/>
+  <Enemy score="10" ship="9" weapon="2" level="0" shield="1" propulsion="6" generator="0"
+         fire="0" min="10" max="200" behavior="follow" powerUp="energy" powerUpAmount="1"/>
+</Prototypes>

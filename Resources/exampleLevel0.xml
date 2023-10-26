@@ -1,0 +1,6 @@
+<Level>
+  <Spawn x="100" y="100" wait="0" interval="1" enemy="1" amount="5"/>
+  <Spawn x="100" y="100" wait="10" interval="1" enemy="2" amount="5"/>
+  <Spawn x="100" y="100" wait="20" interval="1" enemy="3" amount="5"/>
+  <Spawn x="100" y="100" wait="30" interval="1" enemy="4" amount="5"/>
+</Level>
